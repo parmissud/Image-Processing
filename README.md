@@ -27,4 +27,4 @@ To run this project, you'll need to have Python installed along with the followi
 
 You can install these dependencies using pip:
 ```bash
-pip install numpy matplotlib opencv-python scikit-image
+pip install numpy matplotlib opencv-python
